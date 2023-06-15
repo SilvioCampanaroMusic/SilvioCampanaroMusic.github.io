@@ -11130,6 +11130,11 @@ body {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #64a19d;
   }
+
+  .projects-section .featured-text-inverted {
+    padding: 0 2rem 0 0;
+    border-right: 0.5rem solid #64a19d;
+  }
 }
 .projects-section .project-text {
   padding: 3rem;
